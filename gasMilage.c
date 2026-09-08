@@ -31,5 +31,6 @@ int main(void) {
   //Extra credit
   printf("It would cost you: $%.2lf to fill your tank completely\n", ppg*size);
   printf("If you drove 15000 miles your fuel cost would be: $%.2lf\n", 15000/MPG*ppg);
+  printf("Hello World, i did this in IntelliJ");
   return 0;
 }
